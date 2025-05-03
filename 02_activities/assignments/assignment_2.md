@@ -40,8 +40,6 @@
   d. The paths and topology seems important but the way it is presented it is almost impossible to make sense of this, therefore possible “targets” of the data for either the view or the designer are lost.
   e. Many of the issues are also part of the encode portion of 'how' a visualization is designed. Position, colour, size/area, length, and more are used. However, given the lack of legend and the inability to            clearly distinguish components results is poor effectiveness and expressiveness thus highlighting significant interference.
   f. Side Note: if it means to communicate that the subject of the decision making process experiences cognitive load then it does accomplish this in a way. However, this may be a viewer bias but this decision           making process seems a bit unrealistic, i.e., it doesn’t seem like most people go through this many things when selecting a medication for a headache. This may reference the context and accuracy of what is          being presented. It also seems not to consider key points like availability  of drugs which seems like an important consideration point.
-
-
       ```
     - How could this data visualization have been improved?  
       ```
@@ -51,19 +49,15 @@
       c. I am not sure but I feel that the x axis should start at 0 rather than an arbitrary 1.5% or some justification should be provided for the selection of this scale otherwise it may bias the viewer due to              centering of certain months on the chart.
       d. Perhaps providing more source information such as which call center and what year may also provide comprehensive information for the viewer. 
 
-
     o	Recommendations for the bad chart:
 	    a. Foremost, it may be useful to summarize or condense the presented data in a meaningful way. This would allow the designer to include less or more precise information.
-	            - One option could be to either present less dimensions or using something like principle component analyses to present only significant factors that contribute to an individuals decision making                      for headache drugs.
+	            - One option could be to either present less dimensions or using something like principle component analyses to present only significant factors that contribute to an individuals decision 			making for headache drugs.
 	            - Presenting the most important options, e.g., symptom, price etc may be a better idea. 
 	    b. Second are the obvious points – a legend with full details, better labels, and clearer organization of the bubble paths. 
 	    c. Perhaps using parallel decision tress instead of a bubble diagram maybe a better idea and would follow a more step-by-step flow.
 	    d. I think use of different shapes could also be applied with specific shapes for specific tree components
 	    e. Making the diagram interactive may provide a solution where the user can expand to each section that they are interested in and evaluate that path. This would decrease cognitive load by 1. Giving an                initial overview, letting the viewer zoom and filter, and see details on demand. 
-	    f. The colours for this chart may be too distracting I think overall it may be better to present either less information, fewer dimensions, or fewer channels. This would allow the information to be more               effectively exhibited and expressed. 
-
-
-      
+	    f. The colours for this chart may be too distracting I think overall it may be better to present either less information, fewer dimensions, or fewer channels. This would allow the information to be 		more effectively exhibited and expressed. 
       ```
 - Word count should not exceed (as a maximum) 500 words for each visualization (i.e. 
 300 words for your good example and 500 for your bad example)
@@ -94,9 +88,9 @@
     * Open a private window in your browser. Copy and paste the link to your pull request into the address bar. Make sure you can see your pull request properly. This helps the technical facilitator and learning support staff review your submission easily.
 
 Checklist:
-- [ ] Create a branch called `assignment-2`.
-- [ ] Ensure that the repository is public.
-- [ ] Review [the PR description guidelines](https://github.com/UofT-DSI/onboarding/blob/main/onboarding_documents/submissions.md#guidelines-for-pull-request-descriptions) and adhere to them.
-- [ ] Verify that the link is accessible in a private browser window.
+- [x] Create a branch called `assignment-2`.
+- [x] Ensure that the repository is public.
+- [x] Review [the PR description guidelines](https://github.com/UofT-DSI/onboarding/blob/main/onboarding_documents/submissions.md#guidelines-for-pull-request-descriptions) and adhere to them.
+- [x] Verify that the link is accessible in a private browser window.
 
 If you encounter any difficulties or have questions, please don't hesitate to reach out to our team via our Slack. Our Technical Facilitators and Learning Support staff are here to help you navigate any challenges.
